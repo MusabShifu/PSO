@@ -1,0 +1,85 @@
+/* Cairo */
+@font-face {
+    font-family: 'Cairo';
+    src: url(..//Arabic_Fonts//Cairo/static/Cairo-Regular.ttf);
+}
+@font-face {
+    font-family: 'Cairo Bold';
+    src: url(../Arabic_Fonts//Cairo/static/Cairo-Bold.ttf);
+}
+@font-face {
+    font-family: 'Cairo ExtraBold';
+    src: url(../Arabic_Fonts//Cairo/static/Cairo-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Cairo Light';
+    src: url(../Arabic_Fonts//Cairo/static/Cairo-Light.ttf);
+}
+@font-face {
+    font-family: 'Cairo ExtraLight';
+    src: url(../Arabic_Fonts//Cairo/static/Cairo-ExtraLight.ttf);
+}
+/* Aref Ruqaa */
+@font-face {
+    font-family: 'Aref Ruqaa';
+    src: url(../Arabic_Fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf);
+}
+@font-face {
+    font-family: 'Aref Ruqaa Bold';
+    src: url(../Arabic_Fonts//Aref_Ruqaa/ArefRuqaa-Bold.ttf);
+}
+/* Reem Kufi */
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url(../Arabic_Fonts//Reem_Kufi/static/ReemKufi-Regular.ttf);
+}
+
+/* El_Messiri */
+@font-face {
+    font-family: 'El_Messiri';
+    src: url(../Arabic_Fonts//El_Messiri/static/ElMessiri-Regular.ttf);
+}
+/* Rakkas */
+@font-face {
+    font-family: 'Rakkas';
+    src: url(../Arabic_Fonts//Rakkas/Rakkas-Regular.ttf);
+}
+/* Lemonada */
+@font-face {
+    font-family: 'Lemonada Light';
+    src: url(../Arabic_Fonts//Lemonada/static/Lemonada-Light.ttf);
+}
+@font-face {
+    font-family: 'Lemonada';
+    src: url(../Arabic_Fonts//Lemonada/static/Lemonada-Regular.ttf);
+}
+/* Tajawal */
+@font-face {
+    font-family: 'Tajawal ExtraLight';
+    src: url(../Arabic_Fonts/Tajawal/Tajawal-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'Tajawal Bold';
+    src: url(../Arabic_Fonts/Tajawal/Tajawal-Bold.ttf);
+}
+@font-face {
+    font-family: 'Tajawal ExtraBold';
+    src: url(../Arabic_Fonts/Tajawal/Tajawal-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Tajawal Light';
+    src: url(../Arabic_Fonts/Tajawal/Tajawal-Light.ttf);
+}
+@font-face {
+    font-family: 'Tajawal';
+    src: url(../Arabic_Fonts/Tajawal/Tajawal-Regular.ttf);
+}
+/* Amiri */
+@font-face {
+    font-family: 'Amiri';
+    src: url(../Arabic_Fonts/Amiri/Amiri-Regular.ttf);
+}
+@font-face {
+    font-family: 'Amiri Italic';
+    src: url(../Arabic_Fonts/Amiri/Amiri-Italic.ttf);
+}
